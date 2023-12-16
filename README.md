@@ -36,19 +36,19 @@ The app works for any Android device above the Android 7.0(Nougat) version.
 
 To access the AR Furniture Showcase App, follow these steps:
 
-1. Download the application from the provided link: AR Plant Showcase App.
+1. Download the application from the provided link: https://mahindraecolecentrale-my.sharepoint.com/:u:/g/personal/bhargav20uari033_mahindrauniversity_edu_in/EX04lbN1c3lLgnrzLdxXnosBlTzmfIS6mPgQPb_C9RSVbg?e=Cd4M9e
 
 2. Choose one of the following methods:
 
   Download APK: Directly install the app on your Android device.
   
-  Download ZIP File: Extract the contents into a folder named "AR_Garden."
+  Download ZIP File: Extract the contents into a folder named "FurnitureAR.zip"
   
 3. Open Unity Hub on your MAC and follow these steps:
 
   Add a new project with Unity Editor version 2021.3.33.f1.
   
-  Select the "AR_Garden" folder as your project directory.
+  Select the "FurnitureAR" folder as your project directory.
   
 4. In Unity, navigate to File -> Build Settings -> Build to generate the APK file.
 
