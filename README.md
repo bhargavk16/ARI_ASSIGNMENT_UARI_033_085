@@ -1,4 +1,4 @@
-# ARI_ASSIGNMENT_UARI_033_085
+# AR_ASSIGNMENT_UARI_033_085
 
 # AR Furniture Showcase App
 
