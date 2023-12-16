@@ -8,5 +8,7 @@ This project's primary goal was to create an augmented reality application that 
 
 ## Use Cases
 
-Efficient Space Utilization
+### Efficient Space Utilization
+
+The AR app can help with room layout design and planning for architects and space planners. The app can assist in making the best use of available space and guarantee that furniture fits comfortably in the given area. 
 
