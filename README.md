@@ -40,15 +40,15 @@ To access the AR Furniture Showcase App, follow these steps:
 
 2. Choose one of the following methods:
 
-  Download APK: Directly install the app on your Android device.
+    Download APK: Directly install the app on your Android device.
   
-  Download ZIP File: Extract the contents into a folder named "FurnitureAR.zip"
+    Download ZIP File: Extract the contents into a folder named "FurnitureAR.zip"
   
 3. Open Unity Hub on your MAC and follow these steps:
 
-  Add a new project with Unity Editor version 2021.3.33.f1.
+    Add a new project with Unity Editor version 2021.3.33.f1.
   
-  Select the "FurnitureAR" folder as your project directory.
+    Select the "FurnitureAR" folder as your project directory.
   
 4. In Unity, navigate to File -> Build Settings -> Build to generate the APK file.
 
